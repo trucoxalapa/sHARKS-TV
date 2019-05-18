@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>LIVE TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/trucoxalapa/sHARKS-TV/master/test.xml</externallink>
+</item>
+
+<item>
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
+<link>http://ignorame</link>
 <externallink></externallink>
 </item>
 
@@ -12,7 +20,7 @@
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
+<link>http://ignorame</link>
 <externallink></externallink>
 </item>
 
@@ -20,7 +28,7 @@
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
+<link>http://ignorame</link>
 <externallink></externallink>
 </item>
 
@@ -28,7 +36,7 @@
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
+<link>http://ignorame</link>
 <externallink></externallink>
 </item>
 
@@ -36,14 +44,6 @@
 <title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
+<link>http://ignorame</link>
 <externallink></externallink>
 </item>
